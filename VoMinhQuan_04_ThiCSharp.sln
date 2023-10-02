@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoMinhQuan_04_ThiCSharp", "VoMinhQuan_04_ThiCSharp\VoMinhQuan_04_ThiCSharp.csproj", "{40654B9F-B5F4-4FF6-84E0-E7215F34AF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40654B9F-B5F4-4FF6-84E0-E7215F34AF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40654B9F-B5F4-4FF6-84E0-E7215F34AF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40654B9F-B5F4-4FF6-84E0-E7215F34AF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40654B9F-B5F4-4FF6-84E0-E7215F34AF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E5905C-C5AF-45EC-8BAE-BF4B9A559738}
+	EndGlobalSection
+EndGlobal
